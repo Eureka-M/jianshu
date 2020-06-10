@@ -1,0 +1,86 @@
+{
+  "success": true,
+  "data": {
+    "articleList": [
+      {
+        "id": 1,
+        "title": "真正的孤独（经典好文）",
+        "disc": "文：贾平凹 好多人在说自己孤独，说自己孤独的人其实并不孤独。孤独不是受到了冷落和遗弃，而是无知己，不被理解。真正的孤独者不言孤独，偶尔做些长啸，...",
+        "imgUrl":"https://www.baidu.com/img/pc_cc75653cd975aea6d4ba1f59b3697455.png"
+      },
+      {
+        "id": 2,
+        "title": "真正的孤独（经典好文）",
+        "disc": "文：贾平凹 好多人在说自己孤独，说自己孤独的人其实并不孤独。孤独不是受到了冷落和遗弃，而是无知己，不被理解。真正的孤独者不言孤独，偶尔做些长啸，...",
+        "imgUrl": "https://www.baidu.com/img/pc_cc75653cd975aea6d4ba1f59b3697455.png"
+      },
+      {
+        "id": 3,
+        "title": "真正的孤独（经典好文）",
+        "disc": "文：贾平凹 好多人在说自己孤独，说自己孤独的人其实并不孤独。孤独不是受到了冷落和遗弃，而是无知己，不被理解。真正的孤独者不言孤独，偶尔做些长啸，...",
+        "imgUrl": "https://www.baidu.com/img/pc_cc75653cd975aea6d4ba1f59b3697455.png"
+      },
+      {
+      "id": 4,
+      "title": "真正的孤独（经典好文）",
+      "disc": "文：贾平凹 好多人在说自己孤独，说自己孤独的人其实并不孤独。孤独不是受到了冷落和遗弃，而是无知己，不被理解。真正的孤独者不言孤独，偶尔做些长啸，...",
+      "imgUrl": "https://www.baidu.com/img/pc_cc75653cd975aea6d4ba1f59b3697455.png"
+      }
+    ],
+    "recommendList": [
+      {
+    "id": 1,
+    "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+      },
+      {
+      "id": 2,
+      "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+      },
+      {
+      "id": 3,
+      "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+      },
+      {
+      "id": 4,
+      "imgUrl": "https://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+      }
+    ],
+    "writeList": [
+    {
+      "id":1,
+      "writerImgUrl":"https://upload.jianshu.io/users/upload_avatars/9988193/fc26c109-1ae6-4327-a298-2def343e9cd8.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+      "writerName":"董平克日记",
+      "words":"971.4K",
+      "like":"3.8K"
+    },
+    {
+      "id": 2,
+      "writerImgUrl": "https://upload.jianshu.io/users/upload_avatars/3343569/6940ee65-036f-4b7a-9935-5915d9b67d14.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+      "writerName": "吴小步",
+      "words": "273.8K",
+      "like": "1.9K"
+    },
+    {
+      "id": 3,
+      "writerImgUrl": "https://upload.jianshu.io/users/upload_avatars/5796592/73837104-47e5-4fe9-a5be-054bd50b06f7.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+      "writerName": "吴汉童",
+      "words": "365.6K",
+      "like": "2K"
+    },
+    {
+      "id": 4,
+      "writerImgUrl": "https://upload.jianshu.io/users/upload_avatars/3136195/484e32c3504a.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+      "writerName": "路说",
+      "words": "1566.7K",
+      "like": "20.9K"
+    },
+    {
+      "id": 5,
+      "writerImgUrl": "https://upload.jianshu.io/users/upload_avatars/7133325/f4370cf6-cf4d-4839-9b54-87beaa767d48?imageMogr2/auto-orient/strip|imageView2/1/w/96/h/96/format/webp",
+      "writerName": "霍比特人",
+      "words": "230.9K",
+      "like": "2.7K"
+    }
+    ]
+  }
+}
